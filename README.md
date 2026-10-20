@@ -1,3 +1,3 @@
 # Proiect Web — Ilies Nicolas
 
-Tema proiectului:
+# Tema proiectului: Hotel
